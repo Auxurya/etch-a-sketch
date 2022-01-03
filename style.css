@@ -5,6 +5,19 @@
     align-items: stretch;
 }
 
+#container {
+    margin: 0 auto;
+}
+
+button {
+    display: inline;
+}
+
+#reset {
+    text-align: center;
+    margin-bottom: 8px;
+}
+
 .row,
 #container {
     display: flex;
