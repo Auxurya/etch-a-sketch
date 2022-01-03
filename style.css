@@ -1,0 +1,16 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    width: 560px;
+}
+
+.square {
+    width: 30px;
+    height: 30px;
+    background-color: black;
+}
+
+.mouseenter {
+    background-color: white;
+}
